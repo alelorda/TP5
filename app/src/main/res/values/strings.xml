@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GamesOfThrones</string>
+    <string name="editTextUsuario">Usuario</string>
+    <string name="btnIngresar">INGRESAR</string>
+    <string name="editTextPassword">Contraseña</string>
+    <string name="btnRegistrar">REGISTRAR</string>
+    <string name="btnAgregarTarea">Agregar</string>
+    <string name="btnListado">Listado</string>
+    <string name="textViewNombre">Titulo</string>
+    <string name="textViewcantEspisodios">Episodios</string>
+    <string name="textViewLibro">Libro</string>
+    <string name="textViewTelefono">Año</string>
+</resources>
